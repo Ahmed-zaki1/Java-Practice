@@ -39,7 +39,7 @@ public class ReadFile
 			    ps.setString(4, weight);
 			    int cnt=ps.executeUpdate();
 			    System.out.println(cnt);
-			    
+			    		    
 		        
 		        
 		    }
