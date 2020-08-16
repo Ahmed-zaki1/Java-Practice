@@ -1,5 +1,6 @@
 package com.practice;
 
+
 public class RealAlgorithm  implements ComplexAlgorithm{
 	@Override
 	public int complexAlgorithm(int number1, int number2) {
